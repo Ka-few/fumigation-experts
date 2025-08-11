@@ -1,0 +1,16 @@
+.footer {
+  background-color: #28a745; /* Green */
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.footer-content p {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+}
+
+.footer-content p:last-child {
+  color: #ffc107; /* Yellow accent */
+}
